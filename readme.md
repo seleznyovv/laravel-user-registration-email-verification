@@ -1,6 +1,6 @@
 
 
-## User email verification with laravel
+# User email verification with laravel
 
 ## Installation
 
@@ -21,6 +21,5 @@
 
 
 
-# laravel-user-registration-email-verification
 #### seleznyovv
 
